@@ -1,0 +1,10 @@
+# Core packages for data fetching
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+numpy
+
+# For the Streamlit app
+streamlit
+plotly
